@@ -1,1 +1,2 @@
 # odin-recipes
+This is my first project through the Odin Project curriculum where I will be creating a main page which will link to several separate pages with different recipes. It won't look pretty at all but it is a start. 
